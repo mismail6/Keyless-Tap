@@ -1,6 +1,6 @@
 Keyless Tap
 
-A system using a Raspberry Pi and Mobile App that allows me to push my physical "open main door" button virtually from my phone with the help of a linear actuator, microprocessor, and Flask server.
+A system using a Raspberry Pi and Mobile App that allows me to physically push the "open main door" button virtually from my phone with the help of a linear actuator, microprocessor, and Flask server.
 
 Hardware:
 1. Raspberry Pi 4B
